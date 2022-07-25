@@ -6,6 +6,7 @@ const mode = document.getElementById("jsMode");
 const save = document.getElementById("jsSave");
 
 const INITIAL_COLOR = "";
+
 const CANVAS_SIZE = 700;
 
 ctx.filStyle = "white";
